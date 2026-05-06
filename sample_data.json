@@ -1,7 +1,0 @@
-{
-  "controls": [
-    {"control_id": "RC-001", "title": "Access Review and Privileged Role Validation", "description": "Periodic review of privileged access, role membership, and exceptions for sensitive systems."},
-    {"control_id": "RC-002", "title": "Data Loss Prevention and Sensitive Data Scanning", "description": "Detect and prevent exposure of sensitive data in logs, reports, exports, and downstream systems."},
-    {"control_id": "RC-003", "title": "Change Management and Production Approval", "description": "Changes to production workflows must follow approval, testing, and rollback requirements."}
-  ]
-}
